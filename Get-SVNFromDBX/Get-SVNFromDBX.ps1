@@ -24,7 +24,7 @@ https://gist.github.com/mattifestation/1a0f93714ddbabdbac4ad6bcc0f311f3
 
 .EXAMPLE
 
-Get-SecureBootUEFI dbx.bytes | Get-SVNFromDBX
+Get-SecureBootUEFI dbx | Get-SVNFromDBX
 
 .INPUTS
 
